@@ -1,9 +1,9 @@
-  Hi, I'm Urban
+  <h1>Hi, I'm Urban 👋</h1>
 	
-  I am a student at the Faculty of Computer and Information science in Ljubljana. 🇸🇮
+  I am a student at the Faculty of Computer and Information science in **Ljubljana** 🇸🇮.
 
 
-- 📭 Reach me at: urban.gajsek@gmail.com
+- 📭 Reach me at: **urban.gajsek@gmail.com**
 - 🔧 Technologies I'm familiar with:
 
 <img src="https://github.com/Urga7/Urga7/assets/125362405/4c6a95b4-2250-4da1-acaf-17e087c3e54d" width=40 height=40>
