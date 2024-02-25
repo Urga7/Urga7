@@ -4,8 +4,7 @@
 
 
 - 📫 Reach me at: urban.gajsek@gmail.com
-
-Technologies I'm familiar with:
+- 🔧 Technologies I'm familiar with:
 
 <img src="https://github.com/Urga7/Urga7/assets/125362405/4c6a95b4-2250-4da1-acaf-17e087c3e54d" width=40 height=40>
 <img src="https://github.com/Urga7/Urga7/assets/125362405/ca4214c3-f40d-447b-95c8-48789839db68" width=40 height=40>
