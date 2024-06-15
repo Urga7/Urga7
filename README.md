@@ -18,3 +18,4 @@
 <img src="https://github.com/Urga7/Urga7/assets/125362405/bf0a8f4a-0674-4ff7-b3be-9cbbda975644" width=40 height=40>
 <img src="https://github.com/Urga7/Urga7/assets/125362405/211bd619-58cc-49cc-89df-efc2470e4f96" width=50 height=40>
 <img src="https://github.com/Urga7/Urga7/assets/125362405/429c5458-4b2f-4701-ba9f-6b1fbae11117" width=40 height=40>
+<img src="https://github.com/Urga7/Urga7/assets/125362405/edae7918-7dd0-48db-9146-96b44dd849cc" width=40 height=70>
